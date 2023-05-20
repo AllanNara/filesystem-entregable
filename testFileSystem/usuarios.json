@@ -1,0 +1,20 @@
+[
+  {
+    "nombre": "usuario1",
+    "edad": 25,
+    "correo": "a@h.co",
+    "nickname": "usr1"
+  },
+  {
+    "nombre": "usuario2",
+    "edad": 32,
+    "correo": "a@h.co",
+    "nickname": "usr2"
+  },
+  {
+    "nombre": "usuario3",
+    "edad": 18,
+    "correo": "e@m.co",
+    "nickname": "usr3"
+  }
+]
